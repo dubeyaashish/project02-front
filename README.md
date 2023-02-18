@@ -22,7 +22,7 @@ Ishtyle aims to serve as an virtual platform where customers are able to book ap
 
 **Front-End:** HTML, CSS, React, Bootstrap 
 
-**Back-End:** Node.js, JavaScript
+**Back-End:** Node.js, Express.js
 
 **Database:** MongoDB 
 
