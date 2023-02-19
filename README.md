@@ -20,7 +20,7 @@ Ishtyle aims to serve as an virtual platform where customers are able to book ap
 - Appointments 
 ## Tech Stack
 
-**Front-End:** HTML, CSS, React, Bootstrap 
+**Front-End:** HTML, CSS, React, Bootstrap, Next.js
 
 **Back-End:** Node.js, Express.js
 
