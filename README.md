@@ -1,7 +1,7 @@
 
 # Ishtyle - Stylist finder 
 
-Have you ever thought about having a stylist for your special occasion, but couldn't look for any? or have you ever looked for a stylist but couldn't find that suits you best? Here are Ishtlye you can book from a list of great stylists that can brighten your special occasion. 
+Have you ever thought about having a stylist for your special occasion, but couldn't look for any? or have you ever looked for a stylist but couldn't find that suits you best? Here at Ishtlye you can book from a list of great stylists that can brighten your special occasion. 
 
 Ishtyle aims to serve as an virtual platform where customers are able to book appointments with stylists available on our website according to their preferences. This project consists of three entities being Stylists, Customers, and Appointments. Stylists would contain attributes such as their names, availability, their niche specialty (such as: street wear, business chic, comfy/casual etc ) and examples of their work. Furthermore, the customers get to choose their preferred stylist after having an overview of their details. They would have attributes such as their name, contact info, as well as the time and style they are searching for. The appointments booked between Customer & Stylist would contain the date, time, the customer, and the stylist involved along with the type of styling requested.
 
